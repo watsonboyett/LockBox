@@ -7,9 +7,9 @@ A modular box, requiring two template piece to enclose all sides of the box (one
 
 ### Outline ###
 
-![Outline](/Box3_Outline.jpg)
+![Outline](Box3_Outline.jpg)
 
 
 ### Perspective ###
 
-![Perspective](/Box3_Perspective.jpg)
+![Perspective](Box3_Perspective.jpg)

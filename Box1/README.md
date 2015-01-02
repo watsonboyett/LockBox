@@ -7,9 +7,9 @@ A highly modular cube, requiring only a single template piece to enclose all sid
 
 ### Outline ###
 
-![Outline](/Box1_Outline.jpg)
+![Outline](Box1_Outline.jpg)
 
 
 ### Perspective ###
 
-![Perspective](/Box1_Perspective.jpg)
+![Perspective](Box1_Perspective.jpg)
